@@ -14,3 +14,8 @@ p,ul,ol {
   margin-bottom: 2em;
   color: #1d1d1d;
 }
+
+h1 > a {
+  text-decoration: none;
+  color: #1d1d1d;
+}
