@@ -1,0 +1,9 @@
+{%include head.html%}
+  <body>
+    <h1><a href="/">Blog Daniel Geraldini</a></h1>
+
+    <h2>{{page.title}}</h2>
+    <p><i> {{page.date | date_to_string }}</i></p>
+    {{page.content}}
+  </body>
+</html>
