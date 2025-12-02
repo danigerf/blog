@@ -4,8 +4,6 @@ title: A lógica do cisne negro
 date: 2025-12-02
 ---
 
-# A lógica do Cisne Negro
-
 ## A minha história com esse livro
 
 Esse ano eu reli o livro A Lógica do Cisne Negro. Eu acho que o meu primeiro contato com esse livro foi uma indicação do Érico Rocha do marketing digital em 2018. Eu comprei o livro meio sem saber sobre qual era o tema e então acabei entrando nesse universo de conhecimento.
@@ -152,6 +150,3 @@ O primeiro passo para conseguir se beneficiar de um cisne negro é acreditar que
 Se você quer explorar melhor a ideia de como se expor a esses eventos do tipo cisne negro, o autor escreveu o livro Antifrágril.
 
 E também o autor escreveu um livro para falar que nem tudo o que acontece de ruim na economia pode ser justificado por meio de um cisne negro. Muita coisa é simplesmente incompetência humana e acúmulo de riscos de maneira não inteligente. Esse outro livro é o Arriscando a Própria pele. 
-
-## Fechamento
-Bem, se você gostou desse vídeo se inscreva aqui no canal e deixe um comentário sobre qual livro você gostaria que eu analisasse em seguida.
